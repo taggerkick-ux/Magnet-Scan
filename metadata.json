@@ -1,0 +1,10 @@
+{
+  "name": "Magneetvondst AI Scanner",
+  "description": "Een professionele en minimalistische AI scanner voor magneetvissers om vondsten te identificeren, zelfs als deze bedekt zijn met roest en slib.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
